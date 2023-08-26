@@ -1,6 +1,6 @@
-# Running Pac-Man on Kubernetes
+# Running Pac-Man on AWS EKS
 
-Pac-Man the classic arcade game
+## Pac-Man the classic arcade game
 
 <img src="https://veducate.co.uk/wp-content/uploads/2021/09/Pac-Man-UI.jpg" width=45% height=45%>
 
@@ -21,7 +21,7 @@ run ```chmod +X pacman-install.sh```
 run file ```./pacman-install.sh```
 
 
-#### Uninstall 
+## Uninstall 
 
 On AWS Cloud Shell, run file `./pacman-uninstall.sh`. 
 
